@@ -18,5 +18,5 @@ boxes named `Black` and `Red`.
 
 ## How to submit solution
 Create a file in the `/solutions` directory of this (day-1) folder.    
-Name the file using this format: \[your-username].\[language extension]. *Example: kbismark.java or kbismark.cs* 
+Name the file using this format: \[your-username]`.`\[language extension]. *Example: kbismark.java or kbismark.cs* 
 Go on and implement your solution. Push and pull request.
